@@ -11,10 +11,10 @@ from datetime import datetime
 
 # # запуск на одноплатном пк rock
 # # путь до конфиг файла
-PATH_CONFIG = '/home/rock/SoftAcademic/raspberry-pult/config_pult.ini'
+PATH_CONFIG = '/home/rock/SoftAcademic-NakhimovRobot3/raspberry-pult/config_pult.ini'
 
 # # путь до файлика с логами 
-PATH_LOG = '/home/rock/SoftAcademic/raspberry-pult/log/'
+PATH_LOG = '/home/rock/SoftAcademic-NakhimovRobot3/raspberry-pult/log/'
 
 # запуск на одноплатном пк pi4 
 # путь до конфиг файла
